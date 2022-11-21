@@ -1,0 +1,9 @@
+.pokedex-card{
+    display: flex;
+}
+.win{
+    color: green;
+}
+.loo{
+    color: red;
+}

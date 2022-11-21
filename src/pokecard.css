@@ -1,0 +1,9 @@
+.poke-card{
+    border-radius: 5px;
+    border: 1px solid #00000054;
+    margin: 8px;
+    width: auto;
+    padding: 10px;
+    box-shadow: #000 2px 3px 7px 0px;
+    background: #ffe4c4;
+}
